@@ -1,5 +1,5 @@
 // DON'T CHANGE THIS LINE
-window.myBadAssGarage = "krazy-858";
+window.myBadAssGarage = "pimp-my-code";
 if (myBadAssGarage) document.querySelector("#garage-name").innerText = myBadAssGarage.replace(/-/g, " ");
 // //////////////////////
 
